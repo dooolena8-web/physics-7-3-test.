@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # НАЛАШТУВАННЯ: Вставте сюди ваше посилання на Google Apps Script Web App
-WEB_APP_URL = "https://docs.google.com/spreadsheets/d/1sINTTrcTZJrCINh0p4mnGXAnNjDD6I76TyrvSMbGIxQ/edit?usp=sharing"
+WEB_APP_URL = "https://script.google.com/macros/s/AKfycbyXJYIWDayonOMxuMlECdPmDfbET_ljan1PyhoxuUN1w_Iv5Zi9ZtRhjqgPATpJKrxv/exec"
 
 st.set_page_config(page_title="Тест: Фізичні величини", layout="centered")
 
